@@ -10,7 +10,6 @@ body {
     
 }
 
-/* Colors */
 header, .intro, footer {
     background-color: #1F2937;
     background-size: cover; 
@@ -188,7 +187,7 @@ img {
     align-items: center;
     gap:32px;
     padding:36px;
-    background-color: #f7601b;
+    background-color: #fff;
     border-radius: 5px;
     margin:100px auto;
     color: #f9faf8;
